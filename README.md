@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ... AI solutions for real world problems in Energy. From building new foundational models to fully-deployed AI agents for specific tasks.
 <!--
 **dineshs99/dineshs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
